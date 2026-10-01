@@ -1,7 +1,7 @@
 # PriceScout AI 🛒🧠
 **Preditor de Preços com Análise de Sentimento via IA**
 
-Este repositório contém o Minimum Viable Product (MVP) desenvolvido para o **Projeto A3** do curso de **Tecnologia da Informação**. O sistema evolui o conceito tradicional de monitoramento de e-commerce ao integrar processamento de linguagem natural (NLP) para analisar o sentimento das avaliações recentes de consumidores, garantindo que descontos reais não sejam confundidos com lotes defeituosos.
+Este repositório contém o Minimum Viable Product (MVP) desenvolvido para o **Projeto A3** do curso de **INTELIGENCIA ARTIFICIAL**. O sistema evolui o conceito tradicional de monitoramento de e-commerce ao integrar processamento de linguagem natural (NLP) para analisar o sentimento das avaliações recentes de consumidores, garantindo que descontos reais não sejam confundidos com lotes defeituosos.
 
 ## 🎯 O Problema
 Muitas vezes, uma queda brusca de preço indica uma excelente promoção, mas também pode ser o reflexo de avaliações negativas recentes, falsificações ou queimas de estoque de produtos com falhas estruturais. O SmartAlerta cruza a métrica financeira com a opinião qualitativa dos compradores para aprovar ou reprovar a oferta.
